@@ -1,0 +1,25 @@
+{
+  "name": "api4-project",
+  "version": "1.0.0",
+  "description": "Deploy API to Heroku",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cknoettg/node-api4-project.git"
+  },
+  "author": "Corey Knoettgen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cknoettg/node-api4-project/issues"
+  },
+  "homepage": "https://github.com/cknoettg/node-api4-project#readme"
+}
